@@ -1,0 +1,7 @@
+{
+  "name": "bitvm-deps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "peinlcy <peinlcy@gmail.com>",
+  "license": "MIT"
+}
